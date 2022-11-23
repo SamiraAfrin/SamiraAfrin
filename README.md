@@ -1,9 +1,10 @@
-### Hi there 👋
+### Welcome👋
 
 
 **SamiraAfrin/SamiraAfrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Samira Afrin Alam, from captial of Bangladesh. I consider myself as a programmer enthusiast and aspire to become a backend developer.
 
-Here are some ideas to get you started:
+Short Describtion:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
