@@ -20,8 +20,8 @@ I am Samira Afrin Alam, ✨ from captial of Bangladesh. I consider myself as a p
 
 ## Framework
 - Django
--ASP.NET
--Falsk
+- ASP.NET
+- Falsk
 
 ## In Progress
 - 🌱 I’m currently learning **Golang**
