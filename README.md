@@ -27,12 +27,11 @@ I am Samira Afrin Alam, ✨ from captial of Bangladesh. I consider myself as a p
 - 🌱 I’m currently learning **Golang**
 
 
-## Tools
-- Visual Studio Code
-- Visual Studio
-- Xampp
-- Microsoft SQL Server
-- Adobe Illustrator
-- Adobe Photoshop
+## Connect with me
+<p align="left">
+<a href="https://twitter.com/samira afrin alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samira afrin alam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/samira-afrin-alam-shopnil-80326a227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samira-afrin-alam-shopnil-80326a227/" height="30" width="40" /></a>
+</p>
+
 
 
