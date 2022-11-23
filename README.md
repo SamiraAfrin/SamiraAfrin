@@ -2,7 +2,7 @@
 
 I am Samira Afrin Alam, ✨ from captial of Bangladesh. I consider myself as a programmer enthusiast and aspire to become a backend developer😄
 
-## Short Describtion:
+## Short Description:
 
 - I am passionate about programming
 - Participated in many programming contest
@@ -18,7 +18,7 @@ I am Samira Afrin Alam, ✨ from captial of Bangladesh. I consider myself as a p
 - HTML
 - CSS
 
-## Framework
+## Frameworks
 - Django
 - ASP.NET
 - Falsk
