@@ -11,4 +11,15 @@ I am Samira Afrin Alam, ✨ from captial of Bangladesh. I consider myself as a p
 - Consider myself as a multi-tasker
 - Evolved as a quick learner
 
+## In Progress
+- Learning Golang
+
+## Tools
+- Visual Studio Code
+- Visual Studio
+- Xampp
+- Microsoft SQL Server
+- Adobe Illustrator
+- Adobe Photoshop
+
 
