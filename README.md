@@ -21,7 +21,7 @@ I am Samira Afrin Alam, ✨ from captial of Bangladesh. I consider myself as a p
 ## Frameworks
 - Django
 - ASP.NET
-- Falsk
+- Flask
 
 ## In Progress
 - 🌱 I’m currently learning **Golang**
