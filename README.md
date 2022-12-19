@@ -23,8 +23,8 @@ I am Samira Afrin Alam, ✨ from captial of Bangladesh. I consider myself as a p
 - ASP.NET
 - Flask
 
-## In Progress
-- 🌱 I’m currently learning **Golang**
+//## In Progress
+  //- 🌱 I’m currently learning **Golang**
 
 
 ## Connect with me
