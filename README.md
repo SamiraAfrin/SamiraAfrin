@@ -6,7 +6,7 @@ I am Samira Afrin Alam, ✨ from captial of Bangladesh. I consider myself as a p
 
 - I am passionate about programming
 - Participated in many programming contest
-- I am open to learn any new technologies
+- I am open to learning any new technologies
 - I can work under pressure
 - Consider myself as a multi-tasker and a team player
 - Evolved as a quick learner
