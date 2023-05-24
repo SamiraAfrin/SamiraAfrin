@@ -13,6 +13,7 @@ I am Samira Afrin Alam, ✨ from captial of Bangladesh. I consider myself as a p
 
 ## Languages
 - Python
+- Golang
 - Java
 - SQL
 - HTML
@@ -28,8 +29,8 @@ I am Samira Afrin Alam, ✨ from captial of Bangladesh. I consider myself as a p
 - MVC
 - Clean Architecture
  
-## In Progress
-- 🌱 I’m currently learning **Golang** 
+<!-- ## In Progress
+- 🌱 I’m currently learning **Golang**  -->
 
 
 ## Connect with me
