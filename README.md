@@ -1,6 +1,6 @@
 ### Welcome👋
 
-I am Samira Afrin Alam, ✨ from captial of Bangladesh. I consider myself as a programmer enthusiast and aspire to become a backend developer😄
+I am Samira Afrin Alam, ✨ from captial of Finland. I am a software engineer and currently study security and cloud enginnering. I aspire to become a devOps and security engineer😄
 
 ## Short Description:
 
@@ -16,6 +16,7 @@ I am Samira Afrin Alam, ✨ from captial of Bangladesh. I consider myself as a p
 - Golang
 - Java
 - SQL
+- PostgreSQL
 - HTML
 - CSS
 
