@@ -1,6 +1,6 @@
 ### Welcome👋
 
-I am Samira Afrin Alam, ✨ from captial of Finland. I am a software engineer and currently study security and cloud enginnering. I aspire to become a devOps and security engineer😄
+I am Samira Afrin Alam, ✨ from captial of Sweden. I am a software engineer and currently study Security and Cloud Enginnering (SECCLO). I aspire to become a devOps and security engineer😄
 
 ## Short Description:
 
